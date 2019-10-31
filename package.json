@@ -29,7 +29,8 @@
     "react-native-dotenv": "^0.2.0"
   },
   "resolutions": {
-    "mem": "^4.0.0"
+    "mem": "^4.0.0",
+    "metro-config": "^0.57.0"
   },
   "private": true
 }
