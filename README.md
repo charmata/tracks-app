@@ -2,10 +2,10 @@
 
 This is an example app made with React Native that allows you to keep track of the trips you take while using the app.
 
-[<img src="./screenshots/track-list.png" height="250">](./screenshots/track-list.png)
-[<img src="./screenshots/track-detail.png" height="250">](./screenshots/track-list.png)
-[<img src="./screenshots/track-create.png" height="250">](./screenshots/track-list.png)
-[<img src="./screenshots/account.png" height="250">](./screenshots/track-list.png)
+[<img src="./screenshots/track-list.png" height="350">](./screenshots/track-list.png)
+[<img src="./screenshots/track-detail.png" height="350">](./screenshots/track-list.png)
+[<img src="./screenshots/track-create.png" height="350">](./screenshots/track-list.png)
+[<img src="./screenshots/account.png" height="350">](./screenshots/track-list.png)
 
 ## Installation
 
