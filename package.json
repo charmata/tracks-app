@@ -33,7 +33,8 @@
   },
   "resolutions": {
     "mem": "^4.0.0",
-    "metro-config": "^0.57.0"
+    "metro-config": "^0.57.0",
+    "minimist": "^1.2.2"
   },
   "private": true
 }
